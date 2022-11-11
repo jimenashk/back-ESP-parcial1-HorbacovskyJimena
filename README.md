@@ -1,7 +1,4 @@
-# Link repositorio de Proyecto:
-https://github.com/jimenashk/back-ESP-parcial1-HorbacovskyJimena
-
-config DATA
+# config DATA
 https://github.com/jimenashk/spring-cloud-config-parcial1
 
-*NOV 2022*
+*CTD.NOV 2022*
